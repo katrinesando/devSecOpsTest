@@ -1,4 +1,5 @@
 flask
-bandit 
+bandit
 checkov
 safety
+requests==2.0.0  # This version has known security issues
